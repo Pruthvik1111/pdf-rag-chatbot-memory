@@ -1,5 +1,5 @@
-.venv/
-chroma_db/
+data/
+*.pdf
 memory.db
-__pycache__/
-*.pyc
+chroma_db/
+.venv/
