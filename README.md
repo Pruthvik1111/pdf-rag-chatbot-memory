@@ -1,5 +1,7 @@
 # 🧠 PDF RAG Chatbot with Persistent Memory
 
+A local Retrieval-Augmented Generation (RAG) chatbot powered by LangChain, ChromaDB, Ollama, and SQLite memory.# 🧠 PDF RAG Chatbot with Persistent Memory
+
 > Chat with your PDFs using a local LLM, vector search, and SQLite-powered memory.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
